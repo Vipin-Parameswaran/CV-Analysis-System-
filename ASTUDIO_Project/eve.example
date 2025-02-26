@@ -1,0 +1,4 @@
+powershell_execution_code= curl.exe -X POST -F "file=@C:\ASTUDIO_Project\File_2.pdf" http://127.0.0.1:5000/upload
+API_KEY="sk-proj-p_ZQGY****"
+DEBUG=True
+SECRET_KEY=your_secret_key
