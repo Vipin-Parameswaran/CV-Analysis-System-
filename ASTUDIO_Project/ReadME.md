@@ -42,8 +42,8 @@ You will also need the following libraries and tools:
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/LLM-Text-Analysis.git
-   cd LLM-Text-Analysis
+   git clone https://github.com/Vipin-Parameswaran/CV-Analysis-System-.git
+   cd ASTUDIO_Project
 
 2. Install the required dependencies using requirements.txt.
 
