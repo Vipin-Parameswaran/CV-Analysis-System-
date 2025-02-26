@@ -1,4 +1,4 @@
-# Project Name: LLM Text Analysis Application
+# Project Name: CV Analysis System
 
 ## Objective
 
